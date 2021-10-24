@@ -6,7 +6,7 @@ NotificationBindable.OnInvoke = callback
 --
 game.StarterGui:SetCore("SendNotification",  {
  Title = "PrivateXXS";
- Text = "MeepCity Bangers Silent Aim দ";
+ Text = "Violence দ";
  Icon = "";
  Duration = 9999999999;
  Button1 = "ok";
@@ -19,7 +19,7 @@ local LocalPlayer = Players.LocalPlayer
 local accomidationfactor = 0.15537
 
 -- // Silent Aim Module
-local SilentAim = loadstring(game:HttpGet("https://pastebin.com/raw/2f0mGbMP"))()
+local SilentAim = loadstring(game:HttpGet("https://pastebin.com/raw/6gdP49Qz"))()
 SilentAim.TeamCheck = false
 
 -- // Metatable vars
